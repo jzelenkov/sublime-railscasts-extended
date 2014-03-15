@@ -1,3 +1,4 @@
 *.sublime-*
+*_tmp*
 extras.json
 tmp
