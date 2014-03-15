@@ -2,7 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>author</key>
+	<string>github.com&#x2f;jzelenkov</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>name</key>
+	<string>Railscasts Extended</string>
+	<key>semanticClass</key>
 	<string>theme.dark.railscasts_extended</string>
 	<key>settings</key>
 	<array>
