@@ -4,6 +4,15 @@
 
 This theme attempts to add all the good things found in [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) theme by Jon Schlinkert to the original [TextMate Railscasts theme](https://github.com/ryanb/textmate-themes) by Ryan Bates.
 
+This theme supports all of the color keys found in Monokai and Monokai Extended themes. This improves the functionality of the syntax highlighting plugins.
+
+
+#### __This project is still work in progress__
+
+
+All of the values set in this theme were analyzed first. No global search and replace was used.
+
+
 #### [Jump to Examples ↓](#examples)
 
 ## Getting Started
@@ -111,6 +120,16 @@ TODO:
 The following improvements apply to both CSS and LESS.
 
 TODO
+
+
+### GitGutter
+
+TODO: Intuitive colors
+
+	new => green
+	modified => yellow
+	removed => red
+
 
 ## Author
 
