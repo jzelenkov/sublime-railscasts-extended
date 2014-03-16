@@ -918,11 +918,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DA4939</string>
+				<string>#990000</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#586E75</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -933,11 +933,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DA4939</string>
+				<string>#990000</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#586E75</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -948,9 +948,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DB4D4A</string>
+				<string>#702929</string>
 				<key>foreground</key>
-				<string>#586E75</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -972,7 +972,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f92672</string>
+				<string>#DA4939</string>
 			</dict>
 		</dict>
 		<dict>
@@ -994,7 +994,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A5C261</string>
+				<string>#FFC66D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1005,7 +1005,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3bc0f0</string>
+				<string>#BC9458</string>
 			</dict>
 		</dict>
 		<dict>
