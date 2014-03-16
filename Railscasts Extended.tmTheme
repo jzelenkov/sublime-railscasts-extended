@@ -6,6 +6,19 @@
 	<string>github.com&#x2f;jzelenkov</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#073642</string>
+		<key>divider</key>
+		<string>#586e75</string>
+		<key>foreground</key>
+		<string>#839496</string>
+		<key>selectionBackground</key>
+		<string>#586e75</string>
+		<key>selectionForeground</key>
+		<string>#a6e22e</string>
+	</dict>
 	<key>name</key>
 	<string>Railscasts Extended</string>
 	<key>semanticClass</key>
