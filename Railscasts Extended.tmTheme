@@ -225,7 +225,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#FD971F</string>
 			</dict>
@@ -454,7 +454,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FD971F`</string>
+				<string>#FD971F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1298,7 +1298,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ec3533</string>
+				<string>#519F50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1309,7 +1309,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e0eddd</string>
+				<string>#E0EDDD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1322,7 +1322,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FD971F</string>
+				<string>#7FB11B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1335,7 +1335,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#e42e70</string>
+				<string>#D0D0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1348,7 +1348,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#f92672</string>
+				<string>#D0D0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1385,7 +1385,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string> italic</string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#6E9CBE</string>
 			</dict>
@@ -1400,7 +1400,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#6E9CBE</string>
+				<string>#A5C261</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1411,7 +1411,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ae81ff</string>
+				<string>#519F50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1433,14 +1433,14 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#222</string>
+				<string>#222222</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Markdown: Fenced Bode Block</string>
+			<string>Markdown: Fenced Code Block</string>
 			<key>scope</key>
 			<string>punctuation.definition.fenced.markdown, variable.language.fenced.markdown</string>
 			<key>settings</key>
@@ -1448,7 +1448,7 @@
 				<key>background</key>
 				<string>#222222</string>
 				<key>foreground</key>
-				<string>#636050</string>
+				<string>#BC9458</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1461,7 +1461,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#7c7865</string>
+				<string>#BC9458</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1487,9 +1487,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ff3a281a</string>
+				<string>#2222221A</string>
 				<key>foreground</key>
-				<string>#b42a1d</string>
+				<string>#FFC66D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1502,7 +1502,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d3201f</string>
+				<string>#D3201F</string>
 			</dict>
 		</dict>
 		<dict>
