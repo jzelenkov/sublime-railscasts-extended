@@ -219,19 +219,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Function argument</string>
-			<key>scope</key>
-			<string>variable.parameter.js</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
-				<key>foreground</key>
-				<string>#FD971F</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Tag name</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
@@ -632,6 +619,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#FFC66D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Function Parameter</string>
+			<key>scope</key>
+			<string>meta.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E6E1DC</string>
 			</dict>
 		</dict>
 		<dict>
