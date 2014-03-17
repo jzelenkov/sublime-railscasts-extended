@@ -221,7 +221,7 @@
 			<key>name</key>
 			<string>Function argument</string>
 			<key>scope</key>
-			<string>variable.parameter</string>
+			<string>variable.parameter.js</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -373,7 +373,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E8BF6A</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1125,7 +1125,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ae81ff</string>
+				<string>#A5C261</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1138,7 +1138,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9D9DFF</string>
+				<string>#D0D0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1149,18 +1149,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFC66D</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ruby: Variable</string>
-			<key>scope</key>
-			<string>variable.language.ruby</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#D0D0FF</string>
+				<string>#E6E1DC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1171,7 +1160,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFC66D</string>
+				<string>#E8BF6A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1182,9 +1171,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#CC7833</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1195,7 +1184,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#CC7833</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1208,7 +1197,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1221,7 +1210,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#CC7833</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1234,7 +1223,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#E6E1DC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1245,7 +1234,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFC66D</string>
+				<string>#CC7833</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1258,7 +1247,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#519F50</string>
+				<string>#DA4939</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1271,18 +1260,29 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#f6f080</string>
+				<string>#6E9CBE</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Ruby: Punctuation Section</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded.ruby, punctuation.definition.string.begin.ruby, punctuation.definition.string.end.ruby</string>
+			<string>punctuation.definition.string.begin.ruby, punctuation.definition.string.end.ruby</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f92672</string>
+				<string>#A5C261</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ruby: Punctuation Section</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#519F50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1293,7 +1293,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#519F50</string>
+				<string>#CC7833</string>
 			</dict>
 		</dict>
 		<dict>
