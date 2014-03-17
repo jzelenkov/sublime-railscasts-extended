@@ -970,11 +970,11 @@
 			<key>name</key>
 			<string>diff.header</string>
 			<key>scope</key>
-			<string>meta.diff, meta.diff.header</string>
+			<string>meta.diff</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#75715E</string>
+				<key>background</key>
+				<string>#282828</string>
 			</dict>
 		</dict>
 		<dict>
@@ -984,8 +984,10 @@
 			<string>markup.deleted</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#660000</string>
 				<key>foreground</key>
-				<string>#DA4939</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
@@ -995,8 +997,10 @@
 			<string>markup.inserted</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#144212</string>
 				<key>foreground</key>
-				<string>#8DBF5D</string>
+				<string>#A6E22E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1007,18 +1011,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFC66D</string>
+				<string>#967EFB</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>diff.range</string>
+			<string>diff.range and diff.header</string>
 			<key>scope</key>
-			<string>meta.diff, meta.diff.range</string>
+			<string>meta.diff.range, meta.diff.header</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#BC9458</string>
+				<key>background</key>
+				<string>#2F33AB</string>
 			</dict>
 		</dict>
 		<dict>
