@@ -6,11 +6,7 @@ This theme attempts to add all the good things found in [sublime-monokai-extende
 
 This theme supports all of the color keys found in Monokai and Monokai Extended themes. This improves the functionality of the syntax highlighting plugins.
 
-
-#### __This project is still work in progress__
-
-
-All of the values set in this theme were analyzed first. No global search and replace was used.
+All of the values set in this theme were analyzed first. No global search and replace was performed.
 
 
 #### [Jump to Examples ↓](#examples)
@@ -124,14 +120,14 @@ TODO
 
 ### GitGutter
 
-TODO: Intuitive colors
+Intuitive `colors`
 
 	new => green
 	modified => yellow
 	removed => red
 
 
-## Author
+## Author of the extended version
 
 __Jev Zelenkov__
 
