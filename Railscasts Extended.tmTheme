@@ -101,7 +101,18 @@
 			<key>name</key>
 			<string>Constant: Built-in</string>
 			<key>scope</key>
-			<string>constant.language, meta.preprocessor</string>
+			<string>constant.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6E9CBE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constant: Built-in</string>
+			<key>scope</key>
+			<string>meta.preprocessor</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
