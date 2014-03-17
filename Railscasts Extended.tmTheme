@@ -325,7 +325,20 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9D9DFF</string>
+				<string>#A5C261</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String interpolation</string>
+			<key>scope</key>
+			<string>constant.character.escaped, constant.character.escape, string source, string source.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#519F50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -668,7 +681,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ae81ff</string>
+				<string>#A5C261</string>
 			</dict>
 		</dict>
 		<dict>
@@ -712,7 +725,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cfcfc2</string>
+				<string>#CFCFC2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -791,7 +804,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e42e70</string>
+				<string>#DA4939</string>
 			</dict>
 		</dict>
 		<dict>
@@ -961,7 +974,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715e</string>
+				<string>#75715E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1018,7 +1031,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3bc0f0</string>
+				<string>#BC9458</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1029,7 +1042,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f92672dd</string>
+				<string>#CC7833DD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1051,7 +1064,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e42e70</string>
+				<string>#DA4939</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1097,7 +1110,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#dc322f</string>
+				<string>#519F50</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1276,7 +1289,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e42e70</string>
+				<string>#519F50</string>
 			</dict>
 		</dict>
 		<dict>
