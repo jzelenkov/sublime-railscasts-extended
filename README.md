@@ -109,13 +109,18 @@ Adds scopes, support and/or improves styling for:
 
 ### Markdown
 
-TODO:
+![railscasts-001-md-before](https://f.cloud.github.com/assets/205659/2443257/953bc540-ae31-11e3-9bc5-3f963c17f5a5.png)
+
+![railscasts-002-md-after](https://f.cloud.github.com/assets/205659/2443262/a034d8a6-ae31-11e3-84d0-5a1cae8ae2b6.png)
+
 
 ### CSS
 
-The following improvements apply to both CSS and LESS.
+> The following improvements apply to both CSS and LESS.
 
-TODO
+![railscasts-003-css-before](https://f.cloud.github.com/assets/205659/2443263/a84dec58-ae31-11e3-8532-d59a8e1fd527.png)
+
+![railscasts-004-css-after](https://f.cloud.github.com/assets/205659/2443264/a868faa2-ae31-11e3-9e37-2d7b81a24fb9.png)
 
 
 ### GitGutter
