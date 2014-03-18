@@ -156,3 +156,7 @@ Copyright (c) 2008 Ryan Bates
 
 
 [License](LICENSE)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jzelenkov/sublime-railscasts-extended/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
