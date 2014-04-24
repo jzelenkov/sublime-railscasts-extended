@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/jzelenkov/sublime-railscasts-extended.png?label=ready&title=Ready)](https://waffle.io/jzelenkov/sublime-railscasts-extended)
+[![Stories in Ready](https://badge.waffle.io/jzelenkov/sublime-railscasts-extended.png?label=in%20progress&title=In%20Progress)](https://waffle.io/jzelenkov/sublime-railscasts-extended)
 # [sublime-railscasts-extended](https://github.com/jzelenkov/sublime-railscasts-extended)
 
 > Extends original Railscasts theme with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
