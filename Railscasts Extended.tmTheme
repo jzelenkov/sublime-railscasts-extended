@@ -503,6 +503,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CSS: #Id for SCSS</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.id.css</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#7FB11B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>CSS: .class</string>
 			<key>scope</key>
 			<string>meta.selector.css entity.other.attribute-name.class</string>
